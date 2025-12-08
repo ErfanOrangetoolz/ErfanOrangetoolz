@@ -2,14 +2,12 @@
 **Senior Software Developer**
 
 📧 **Email:** erfan.orangetoolz@gmail.com  
-📍 **Permanent Address:** Talukdar Bari, West Alahabad, 1 No Kanchanabad Union, Mujafarabad – 4370, Chandanaish, Chattogram 
+📍 **Permanent Address:** Talukdar Bari, West Alahabad, 1 No Kanchanabad Union, Mujafarabad – 4370, Chandanaish, Chattogram  
 📍 **Present Address:** Sector 10, Uttara, Dhaka  
 🌎 **Nationality:** Bangladeshi  
 💼 **Open to Remote Work**  
-📞 **Phone:** +880 1825 262557
-<div>
+📞 **Phone:** +880 1825 262557  
 <img style="height: 25px; border-radius:0px" src="https://visitor-badge.laobi.icu/badge?page_id=ErfanOrangetoolz.ErfanOrangetoolz&right_color=%2300B23A&text_color=red&left_text=GitHub+Profile+View&format=true" alt="visitor badge" />
-</div>
 
 ---
 
